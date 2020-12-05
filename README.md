@@ -30,7 +30,7 @@
 
 
 - 🔭 I’m currently working at [Alteama](https://frontier.xyz/).
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I’m currently learning more about Image Processin and Computer Vision
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
