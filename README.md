@@ -59,10 +59,7 @@
 <a href="https://github.com/RD191295">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RD191295&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/RD191295/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username= RD191295&repo=&theme=light" />
 
-</a>
 <a href="https://github.com/RD191295/Machine-Vision-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username= RD191295&repo=Machine-Vision-App&theme=light" />
 </a>
