@@ -41,7 +41,7 @@
 [![Twitter: RD_191295](https://img.shields.io/twitter/follow/RD_191295?style=social)](https://twitter.com/RD_191295)
 [![Linkedin: raj-dalsaniya](https://img.shields.io/badge/raj-dalsaniya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raj-dalsaniya/)](https://www.linkedin.com/in/raj-dalsaniya/)
 [![GitHub RD191295](https://img.shields.io/github/followers/RD191295?label=follow&style=social)](https://github.com/RD191295)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![website](https://img.shields.io/badge/BLOG-TechGear-2648ff?style=flat-square&logo=google-chrome)](https://teichegear.blogspot.com/)
 
 
 **Languages and Tools:**  
