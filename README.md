@@ -20,8 +20,8 @@
 <a href="https://www.facebook.com/raj.dalsaniya.71/">
   <img align="left" alt="Raj's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/mtechviral/">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+<a href="https://teichegear.blogspot.com/">
+  <img align="left" alt="Raj's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 
 <br/>
