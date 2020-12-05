@@ -61,7 +61,7 @@
 </a>
 
 <a href="https://github.com/RD191295/Machine-Vision-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username= RD191295&repo=Machine-Vision-App&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=Machine-Vision-App&theme=light" />
 </a>
 
 <div align="center">
