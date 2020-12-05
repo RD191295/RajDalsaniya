@@ -32,7 +32,7 @@
 - 🔭 I’m currently working at [Alteama](http://www.alteama.com/).
 - 🌱 I’m currently learning more about Image Processin and Computer Vision
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
+- 🤔 I’m looking for good project on computer vision and Image processing.
 - 💬 Ask me about Flutter or any Embedded system and computer vision related stuff.
 - 📫 How to reach me: [Twitter - @Rd_191295](https://twitter.com/RD_191295) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
 - 😄 Pronouns: He/His
