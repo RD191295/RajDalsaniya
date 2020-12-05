@@ -59,11 +59,11 @@
 <a href="https://github.com/RD191295">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RD191295&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
+<a href="https://github.com/RD191295/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
+<a href="https://github.com/RD191295/VelocityX">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
 </a>
 
