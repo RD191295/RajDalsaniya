@@ -17,7 +17,7 @@
 <a href="https://instagram.com/rd_1912/">
   <img align="left" alt="Raj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/imthepk/">
+<a href="https://www.facebook.com/raj.dalsaniya.71/">
   <img align="left" alt="Raj's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/mtechviral/">
@@ -29,7 +29,7 @@
 
 
 
-- 🔭 I’m currently working at [Alteama](https://frontier.xyz/).
+- 🔭 I’m currently working at [Alteama](http://www.alteama.com/).
 - 🌱 I’m currently learning more about Image Processin and Computer Vision
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
 - 🤔 I’m looking for help with VelocityX documentation.
