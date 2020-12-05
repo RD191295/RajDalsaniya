@@ -63,7 +63,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
 </a>
-<a href="https://github.com/RD191295/VelocityX">
+<a href="https://github.com/RD191295/Machine-Vision-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
 </a>
 
