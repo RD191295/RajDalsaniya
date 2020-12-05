@@ -39,7 +39,7 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 [![Twitter: RD_191295](https://img.shields.io/twitter/follow/RD_191295?style=social)](https://twitter.com/RD_191295)
-[![Linkedin: raj-dalsaniya](https://img.shields.io/badge/-raj-dalsaniya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raj-dalsaniya/)](https://www.linkedin.com/in/raj-dalsaniya/)
+[![Linkedin: raj-dalsaniya](https://img.shields.io/badge/raj-dalsaniya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raj-dalsaniya/)](https://www.linkedin.com/in/raj-dalsaniya/)
 [![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
