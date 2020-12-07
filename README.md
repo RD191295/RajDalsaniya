@@ -63,7 +63,7 @@
 </a>
 
 <a href="https://github.com/RD191295/Smart-Plant-Watering-System">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=Machine-Vision-App&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=Smart-Plant-Watering-System&theme=light" />
 </a>
 
 <div align="center">
