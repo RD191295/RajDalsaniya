@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working at [Alteama](http://www.alteama.com/).
 - 🌱 I’m currently learning more about Image Processing and Computer Vision
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCgUmWVfh0ZmqGjPgxYjSFmg).
 - 🤔 I’m looking for good project on computer vision and Image processing.
 - 💬 Ask me about any Embedded system and computer vision related stuff.
 - 📫 How to reach me: [Twitter - @Rd_191295](https://twitter.com/RD_191295).
