@@ -62,7 +62,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RD191295&show_icons=true&theme=light&line_height=27" alt="Raj's github stats"/>
 </a>
 
-<a href="https://github.com/RD191295/Machine-Vision-App">
+<a href="https://github.com/RD191295/Smart-Plant-Watering-System">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=Machine-Vision-App&theme=light" />
 </a>
 
