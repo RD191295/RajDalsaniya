@@ -34,7 +34,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
 - 🤔 I’m looking for good project on computer vision and Image processing.
 - 💬 Ask me about any Embedded system and computer vision related stuff.
-- 📫 How to reach me: [Twitter - @Rd_191295](https://twitter.com/RD_191295) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 📫 How to reach me: [Twitter - @Rd_191295](https://twitter.com/RD_191295).
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
