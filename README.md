@@ -66,8 +66,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=Smart-Plant-Watering-System&theme=light" />
 </a>
 
-<a href="https://github.com/RD191295/Smart-Plant-Watering-System">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=&theme=light" />
+<a href="https://github.com/RD191295/Color_Identification">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RD191295&repo=Color_Identification&theme=light" />
 </a>
 
 <div align="center">
