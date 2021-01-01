@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RD191295&label=Views&color=blue&style=plastic" alt="RD191295" /> </p>
 
-<a href="https://twitter.com/RD_191295">
+<a href="https://twitter.com/TechGear4u">
   <img align="left" alt="Raj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/raj-dalsaniya">
