@@ -21,7 +21,7 @@
   <img align="left" alt="Raj's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://techgear4u.blogspot.com/">
-  <img align="left" alt="Raj's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />
+  <img align="left" alt="Raj's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCgUmWVfh0ZmqGjPgxYjSFmg">
   <img align="left" alt="Raj's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
